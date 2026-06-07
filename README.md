@@ -10,3 +10,4 @@ let's tinker it out lads
 <img width="852" height="572" alt="Screenshot 2026-05-24 at 09 57 58" src="https://github.com/user-attachments/assets/75e551a4-d4b8-49bd-af66-016e5eccf11d" />
 
 
+btw all of whatever i did in my other repos are part of the AXGO, aint bothered to just group them into one
